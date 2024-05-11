@@ -1,4 +1,4 @@
-program AssignErrorExample;
+program AssignToConstErrorExample;
 
 const
     a = 10;

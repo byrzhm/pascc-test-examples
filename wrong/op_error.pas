@@ -1,4 +1,4 @@
-program ModError;
+program OpError;
 
 begin
   writeln(10 / 0); // OK
