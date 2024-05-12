@@ -2,7 +2,7 @@ program RedeclErrorExample;
 
 const
     a = 10;
-    b = a;
+    a = 6;
     
 begin
     writeln(a);
